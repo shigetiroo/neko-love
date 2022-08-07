@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN HERE ",
+    "status1": "STATUS1 HERE ",
+    "status2": "STATUS2 HERE",
+
+    "prefix_settings" : {
+        "prefix" : " PREFIX HERE", 
+        "use_space" : false}
+
+}
